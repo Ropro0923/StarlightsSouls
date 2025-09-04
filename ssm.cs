@@ -1,6 +1,8 @@
 global using LumUtils = Luminance.Common.Utilities.Utilities;
 global using FargowiltasSouls.Core.ModPlayers;
 global using FargowiltasSouls.Core.Toggler;
+global using Terraria;
+global using Terraria.ModLoader;
 using ssm.Content.Sky;
 using Microsoft.Xna.Framework;
 using Terraria;

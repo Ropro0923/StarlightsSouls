@@ -133,6 +133,11 @@ namespace ssm
         [ReloadRequired]
         //[BackgroundColor(60, 200, 60, 192)]
         [DefaultValue(true)]
+        public bool EmodeConsolaria { get; set; }
+
+        [ReloadRequired]
+        //[BackgroundColor(60, 200, 60, 192)]
+        [DefaultValue(true)]
         public bool EmodeHWJ { get; set; }
 
         [Header("EmodeWeaponsLoad")]

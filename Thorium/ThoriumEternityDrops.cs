@@ -32,7 +32,6 @@ namespace ssm.Thorium
             if (npc.type == ModContent.NPCType<TheGrandThunderBird>())
             {
                 emodeRule.OnSuccess(FargoSoulsUtil.BossBagDropCustom(ModContent.ItemType<StrangeCrate>(), 5));
-                emodeRule.OnSuccess(FargoSoulsUtil.BossBagDropCustom(ModContent.ItemType<ThunderTalonEternity>(), 1));
             }
             else if (npc.type == ModContent.NPCType<QueenJellyfish>())
             {

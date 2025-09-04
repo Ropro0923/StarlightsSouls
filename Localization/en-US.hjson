@@ -3039,15 +3039,6 @@ Mods: {
 					'''
 			}
 
-			ThunderTalonEternity: {
-				DisplayName: Thunder Talon
-				Tooltip:
-					'''
-					Your attacks apply petrified on hit.
-					“Do you hear lightning or see thunder?”
-					'''
-			}
-
 			DarkenedCloak: {
 				DisplayName: Darkened Cloak
 				Tooltip: ""
